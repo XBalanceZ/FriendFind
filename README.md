@@ -6,6 +6,8 @@ FriendFind เป็นโปรเจกต์พัฒนาแอปพลิ
 
 ## ✨ ฟีเจอร์หลัก
 
+<img width="881" height="329" alt="image" src="https://github.com/user-attachments/assets/2d9461b5-efc0-45d6-87c0-b01af6fb31db" />
+
 ### 📱 สำหรับนักศึกษา (Mobile Application)
 
 - **สมัครสมาชิกและเข้าสู่ระบบ** — รองรับการลงทะเบียนและเข้าสู่ระบบ
